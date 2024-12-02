@@ -1,0 +1,54 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level 01.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#floors": {
+            "scaleInEditor": 1
+        },
+        "level 01.tmx": {
+            "scale": 2.3209,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 93.92907923650309,
+                "y": 159.20548063251326
+            }
+        },
+        "level 01.tmx#floors": {
+            "scaleInDock": 1.6631
+        },
+        "level 01.tmx#high-walls": {
+            "scaleInDock": 1.9211
+        },
+        "level 01.tmx#low-walls": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3.11
+        }
+    },
+    "last.imagePath": "/Users/ianmcquiston/Desktop/coding shenanigans/derpy-dungeon/public/tilemaps",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "level 01.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "level 01.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
